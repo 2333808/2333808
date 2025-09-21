@@ -1,7 +1,6 @@
 # Hi, I'm David Pluas 👋  
 
-🎓 Software Engineering student at Brunel University  
-💻 Focused on **Learning*  
+🎓 Software Engineering student at Brunel University   
 🌍 Fluent in **English & Spanish**  
 
 ## 🔧 Tech  
