@@ -4,7 +4,7 @@
 🌍 Fluent in **English & Spanish**  
 
 ## 🔧 Tech  
-Java · Spring Boot · SQL · GitHub · HTML · SPSS · CSS · React · Typescript
+Java · Spring Boot · SQL · GitHub · HTML · SPSS · CSS · JavaScript
 
 ## 📌 Projects  
 - **HealthConnect** – Scalable backend & APIs  
